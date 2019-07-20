@@ -3,7 +3,7 @@
 namespace Core\System\Core\errorHandler;
 /**
  * Captura los errores comunes que pueden ocurrir
- * dentro de un proyecto, esto no manja todos los errores del framework ya que
+ * dentro de un proyecto, esto no maneja todos los errores del framework ya que
  * otras cosas especificas como errores al pasar un url
  * o errore de archivo de vista son manejados desde el controlador
  * principal
